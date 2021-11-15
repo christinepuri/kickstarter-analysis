@@ -17,6 +17,9 @@ The purpose of this project is to give Louisa insight into how some campaigns di
 ## Conclusion
   - The most successful theater campaigns were launched between February and May. Louisa should consider launching campaigns within that timeframe, and especially in May where they performed best. 
   - Out of a total of 1369 theater campaigns, 839 were successful which brings Louisa to a 61% success rate in theater campaigns. 
+  
+  ![Resources/pivot_table.png](Resources/pivot_table.png)
+  
   - Based on the analysis done on the outcomes based on goals, campaigns with goals between 1000 and 50000, as well as those between 35000 and 50000 performed the best. Louisa couldd revisit the details of those campaigns and identify trends that could be responsible for their higher success rates.
   - Some limitations to the dataset include the original format of the Deadline and Launched_at columns which were in Unix timestamps, which required the use of a timestamp converter tool outside of excel to change the format. However, once the dates were converted, they became easily readable.
   - While some campaigns did not reach their goal, others surpassed theirs. Louisa could create an additional table showing the differences between the pledged amounts and goals, to determine what extra funds she accumulated. 
